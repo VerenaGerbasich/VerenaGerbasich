@@ -20,4 +20,4 @@
 
 #### A little bit about me...
 
-hen I'm not coding, you can probably find me working on my next cosplay project.
+When I'm not coding, you can probably find me working on my next cosplay project.
