@@ -2,8 +2,8 @@
 
 #### Currently...
 
-* [cite_start]**💻 Finalizing:** Full-Stack certification focusing on **TypeScript, Angular, and Symfony**[cite: 76, 77, 20].
-* [cite_start]**🔨 Integrating:** Core programming principles (OOD, Clean Code) into final portfolio systems[cite: 77, 21].
+* **💻 Finalizing:** Full-Stack certification focusing on **TypeScript, Angular, and Symfony**[cite: 76, 77, 20].
+* **🔨 Integrating:** Core programming principles (OOD, Clean Code) into final portfolio systems[cite: 77, 21].
 * **🚀 Seeking:** A **System Integration / Full-Time Role** to apply transferable software skills in a professional environment.
 * **💬 Open to:** Collaborations on projects emphasizing complex logic or transferable software architecture.
 
