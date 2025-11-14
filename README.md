@@ -1,23 +1,24 @@
-## Verena | Student Developer
+## 👩‍💻 Verena Isabell Gerbasich | Full-Stack System Architect
 
 #### Currently...
 
--   **💻 Learning:** Full Stack Web Development at CodeFactory Vienna.
--   **🔨 Building:** Exam projects and hands-on exercises for my course.
--   **🚀 Aspiring to:** Complete my certification and build impactful projects over the next 2.5-3 years.
--   **💬 Open to:** Collaborating on fun, small-scale side projects.
+* [cite_start]**💻 Finalizing:** Full-Stack certification focusing on **TypeScript, Angular, and Symfony**[cite: 76, 77, 20].
+* [cite_start]**🔨 Integrating:** Core programming principles (OOD, Clean Code) into final portfolio systems[cite: 77, 21].
+* **🚀 Seeking:** A **System Integration / Full-Time Role** to apply transferable software skills in a professional environment.
+* **💬 Open to:** Collaborations on projects emphasizing complex logic or transferable software architecture.
 
 ---
 
 #### Let's Connect
 
--   **Pronouns:** she/her
--   **Location:** Austria
--   **Looking for:** Mentors or fellow students to share ideas with!
--   **Find me:** Just send a message here on GitHub.
+* **Pronouns:** she/her
+* **Location:** Austria
+* [cite_start]**Looking for:** Mentors, Senior Developers, or connections in general **Software Architecture**[cite: 66, 72].
+* **Find me:** Connect via E-Mail (verena.gerbasich@outlook.com) or LinkedIn (or send a message here on GitHub).
 
 ---
 
 #### A little bit about me...
 
-When I'm not coding, you can probably find me working on my next cosplay project.
+* [cite_start]Background in Technical Sales and Analytics[cite: 124, 128].
+* [cite_start]Proven ability to **translate complex requirements into structured code documentation**[cite: 125, 142].
